@@ -1,10 +1,10 @@
 const settings = {
   social: {
-    twitchUsername: 'techno',
-    twitterUsername: '',
+    twitchUsername: 'Reactsss_',
+    twitterUsername: '@Reactsss',
     facebookUsername: '',
     instagramUsername: '',
-    youtubeUsername: '',
+    youtubeUsername: 'Reactsss',
     snapchatUsername: '',
     steamUsername: '',
     battlenetUsername: '',
